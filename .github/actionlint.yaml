@@ -1,0 +1,8 @@
+{
+  "self-hosted-runner": {
+    "labels": [
+      "self-hosted",
+      "helio-tomcat"
+    ]
+  }
+}
